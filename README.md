@@ -1,40 +1,48 @@
-<h1 align="center">Hi, I'm Mahsa 👋🏻</h1>
+<div align="center">
 
-<h3 align="center">Aspiring Web Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e1b4b,50:6d5bd0,100:a78bfa&text=Hi%2C%20I'm%20Mahsa%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Web%20Developer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Purple and navy welcome banner" />
 
-<p align="center">
-  Creating, learning, and growing — one step at a time.
-</p>
+### Learning, creating & growing — one step at a time.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:6d5bd0,100:a78bfa&height=160&section=header&text=Welcome%20to%20my%20space&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" alt="Purple gradient banner" />
-</p>
+[![Telegram](https://img.shields.io/badge/Telegram-Connect-8b5cf6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mahsa_hoseiniii)
 
-## About Me
+</div>
 
-Hi! I'm Mahsa, an aspiring web developer with an interest in web design, creativity, and building meaningful digital experiences.
+---
 
-I'm currently learning web development, exploring new tools, and improving my skills through practice. I enjoy the process of turning ideas into clean, simple, and user-friendly designs.
+## 👩🏻‍💻 About Me
 
-## What I'm Exploring
+Hi, I'm Mahsa! I'm currently learning web development and exploring the creative side of building websites.
 
-- Web development and modern web technologies
-- Clean UI design and visual aesthetics
-- HTML, CSS, Tailwind CSS, and JavaScript
-- New ideas, creative projects, and continuous learning
+I enjoy discovering new technologies, experimenting with design ideas, and learning how to turn simple ideas into clean, user-friendly web experiences.
 
-## My Approach
+- 🌱 Currently exploring web development
+- 🎨 Interested in clean design and visual aesthetics
+- 💻 Learning HTML, CSS, Tailwind CSS, and JavaScript
+- ✨ Focused on continuous learning and hands-on practice
 
-I believe in learning by doing, staying curious, and improving a little every day. I'm at the beginning of my journey, and I'm excited to see where it takes me.
+## 🛠️ Technologies I'm Exploring
 
-## Let's Connect
+<div align="center">
 
-<p>
-  <a href="https://t.me/mahsa_hoseiniii">
-    <img src="https://img.shields.io/badge/Telegram-Connect-8b5cf6?style=for-the-badge&logo=telegram&logoColor=white" alt="Connect with me on Telegram" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js&theme=dark" alt="HTML, CSS, Tailwind CSS, and JavaScript icons" />
 
-<p align="center">
-  <i>Curious mind. Creative spirit. Always learning. 💜</i>
-</p>
+</div>
+
+## 🌷 A Little About My Journey
+
+I'm at the beginning of my web development journey, building my foundation through learning and practice. My goal is to keep improving, develop my own style, and gradually turn what I learn into real projects.
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://t.me/mahsa_hoseiniii">
+  <img src="https://img.shields.io/badge/Telegram-@mahsa__hoseiniii-6d5bd0?style=for-the-badge&logo=telegram&logoColor=white" alt="Mahsa on Telegram" />
+</a>
+
+<br/><br/>
+
+<i>Curious mind. Creative spirit. Always learning. 💜</i>
+
+</div>
