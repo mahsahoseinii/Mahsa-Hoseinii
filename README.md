@@ -1,43 +1,40 @@
-# Mahsa-Hoseinii
-<h1 align="center">Hi, I'm Mahsa ✨</h1>
+<h1 align="center">Hi, I'm Mahsa 👋🏻</h1>
 
 <h3 align="center">Aspiring Web Developer</h3>
 
 <p align="center">
-  Learning, creating, and growing every day.
+  Creating, learning, and growing — one step at a time.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:a78bfa&height=120&section=header" width="100%" alt="Purple gradient banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:6d5bd0,100:a78bfa&height=160&section=header&text=Welcome%20to%20my%20space&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" alt="Purple gradient banner" />
 </p>
 
 ## About Me
 
-- 🌱 Currently learning web development
-- 🎨 Interested in clean design and creative ideas
-- 💻 Exploring HTML, CSS, and JavaScript
-- 🚀 Improving my skills one step at a time
+Hi! I'm Mahsa, an aspiring web developer with an interest in web design, creativity, and building meaningful digital experiences.
 
-## Technologies I'm Learning
+I'm currently learning web development, exploring new tools, and improving my skills through practice. I enjoy the process of turning ideas into clean, simple, and user-friendly designs.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS and JavaScript" />
-</p>
+## What I'm Exploring
 
-## My Goals
+- Web development and modern web technologies
+- Clean UI design and visual aesthetics
+- HTML, CSS, Tailwind CSS, and JavaScript
+- New ideas, creative projects, and continuous learning
 
-- [ ] Improve my HTML and CSS skills
-- [ ] Practice JavaScript
-- [ ] Build my first personal website
+## My Approach
 
-## Connect With Me
+I believe in learning by doing, staying curious, and improving a little every day. I'm at the beginning of my journey, and I'm excited to see where it takes me.
+
+## Let's Connect
 
 <p>
   <a href="https://t.me/mahsa_hoseiniii">
-    <img src="https://img.shields.io/badge/Telegram-Connect-8b5cf6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-Connect-8b5cf6?style=for-the-badge&logo=telegram&logoColor=white" alt="Connect with me on Telegram" />
   </a>
 </p>
 
 <p align="center">
-  <i>Learning today, building tomorrow. 💜</i>
+  <i>Curious mind. Creative spirit. Always learning. 💜</i>
 </p>
